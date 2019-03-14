@@ -4,9 +4,9 @@
 this script downloads JPG images from a URLs.
 
 This script takes 3 arguments:
-	[1] the file location of the dataset of urls
-	[2] the directory you want to save the images to
-	[3] the "class" of the images - used for naming the images
+    [1] the file location of the dataset of urls
+    [2] the directory you want to save the images to
+    [3] the "class" of the images - used for naming the images
 
 
 To run:
